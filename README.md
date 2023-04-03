@@ -4,8 +4,8 @@ El presente trabajo identifica como problemática el tiempo que puede tardar un 
 El equipo de trabajo considero centrarse en esta problemática, de manera que el proceso de detección tomando imágenes de placas de rayos X, esto se realizará a través de una Aplicación con Visión Artificial
 
 Trabajo desarrollado por:
-* Antony Marin
-* Oscar Serquén
-* Christian Solano
+* Antony Marin: @AnthonyAnalytics
+* Oscar Serquén @aserquen
+* Christian Solano @csolanog80
 
 Las imagenes se pueden descargar desde aqui: https://drive.google.com/drive/folders/1U4QwF8YfPU4fbV1uTi8cdolyrEpYrP8U?usp=sharing 
