@@ -7,6 +7,6 @@ Trabajo desarrollado por:
 - Oscar Serquén: @aserquen
 - Christian Solano: @csolanog80
 
-
+#
 - Las imagenes se pueden descargar desde aqui: https://drive.google.com/drive/folders/1U4QwF8YfPU4fbV1uTi8cdolyrEpYrP8U?usp=sharing 
 - Los modelos .pt se pueden obtener desde aqui: https://drive.google.com/drive/folders/1O6hcZhqwkbks1m3cSMq9AOM1VIvIJtxX?usp=sharing
