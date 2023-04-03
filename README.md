@@ -8,3 +8,4 @@ Trabajo desarrollado por:
 * Oscar Serquén
 * Christian Solano
 
+Las imagenes se pueden descargar desde aqui: https://drive.google.com/drive/folders/1U4QwF8YfPU4fbV1uTi8cdolyrEpYrP8U?usp=sharing 
